@@ -17,10 +17,10 @@ Follow these steps to use the script:
 1. Open a text editor or PowerShell Integrated Scripting Environment (ISE).
 2. Copy the script provided below and paste it into your text editor or PowerShell ISE.
 
-$projectPath = "Enter File Path here"
+`$projectPath = "Enter File Path here"`
 
 Change to the project directory
-cd $projectPath
+`cd $projectPath`
 
 Pull the updated content
 Write-Host "Pulling updates from the origin remote..."
@@ -36,7 +36,7 @@ git pull origin
 7. Navigate to the directory where you saved the script using the `cd` command.
 8. Execute the script by entering the following command:
 
-.\auto-fetch-and-pull.ps1
+`.\auto-fetch-and-pull.ps1`
 
 
 
