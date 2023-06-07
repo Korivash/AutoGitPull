@@ -52,7 +52,7 @@ Follow these steps to automate the process using Windows Task Manager:
 
 1. Create a new text file and rename it to `start.bat`.
 2. Open `start.bat` in a text editor and add the following command:
-powershell -ExecutionPolicy Bypass -File "C:\path\to\auto-fetch-and-pull.ps1"
+powershell `-ExecutionPolicy Bypass -File "C:\path\to\auto-fetch-and-pull.ps1"`
 
    Replace `"C:\path\to\auto-fetch-and-pull.ps1"` with the actual path to the `auto-fetch-and-pull.ps1` script file.
    
