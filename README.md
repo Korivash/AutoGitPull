@@ -70,5 +70,9 @@ powershell `-ExecutionPolicy Bypass -File "C:\path\to\auto-fetch-and-pull.ps1"`
 
 ## Conclusion
 
-With this script, you can automate the process of fetching and pulling updates from the
+With this script, you can automate the process of fetching and pulling updates from the Github Desktop Version. 
+
+## Why do i use this?
+
+With multiple developers pushing to a project onto say a VPS this will fetch everyones pushes without disturbing the person currently on the VPS.
 
