@@ -2,6 +2,8 @@
 
 This script automates the process of fetching and pulling updates from the origin remote repository using GitHub Desktop on Windows. It helps streamline the synchronization of your local project with the latest changes from the remote repository.
 
+# Please Star the project if you like it!
+
 ## Prerequisites
 
 Before using this script, ensure that you have the following:
